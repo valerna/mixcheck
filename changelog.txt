@@ -1,0 +1,4 @@
+*** WooCommerce MixCheck Changelog ***
+
+2024-02-07 - version 1.0
+* New: First Release
