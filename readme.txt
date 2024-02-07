@@ -1,7 +1,7 @@
 === WooCommerce MixCheck ===
 
-Contributors: jamescollins, OM4
-Tags: woocommerce, zapier, webhook, integration, automation, zap, cloud, sync, integrate
+Contributors: RJ Buchanan, OM4
+Tags: woocommerce, mixcheck, webhook, integration, automation, music licenses, cloud, sync, integrate
 Requires at least: 6.0
 Tested up to: 6.3
 Requires PHP: 7.2.0
@@ -11,23 +11,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Integrate your WooCommerce store with 5000+ third-party web services via the MixCheck web automation service.
+Integrate your WooCommerce store with the MixCheck Music Licensing automation service.
 
-Send your WooCommerce order, customer, product, coupon, booking or subscription data to 5000+ MixCheck-enabled apps.
-
-Or use MixCheck to automatically create or update WooCommerce order, customer, product, coupon or subscription data from a Zap.
-
-This WooCommerce extension is [available for purchase on woo.com](https://woo.com/products/woocommerce-zapier/).
+Send your WooCommerce license info to MixCheck to auto-gerate printable licenses.
 
 == Installation ==
 
-Important installation and configuration instructions are [available here](https://docs.om4.io/woocommerce-zapier/install/).
+Important installation and configuration instructions are [available here](https://mixcheck.app/plugins/docs/woocommerce/install/).
 
 == Frequently Asked Questions ==
 
 = How can I get support? =
 
-Please [consult the documentation](https://docs.om4.io/woocommerce-zapier/), or [contact support](https://docs.om4.io/woocommerce-zapier/support/).
+Please [consult the documentation](https://mixcheck.app/plugins/docs/), or [contact support](https://mixcheck.app/support/).
 
 == Changelog ==
 
